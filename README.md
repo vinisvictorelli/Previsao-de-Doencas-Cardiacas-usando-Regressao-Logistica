@@ -21,4 +21,11 @@ Execute o aplicativo Streamlit:
 streamlit run app.py
 ```
 
+### Requisitos
+Certifique-se de ter o Python instalado em sua máquina. O arquivo requirements.txt contém as dependências necessárias e pode ser utilizado para instalar todas elas de uma vez.
 
+```python
+pip install -r requirements.txt
+```
+### Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar este projeto.
