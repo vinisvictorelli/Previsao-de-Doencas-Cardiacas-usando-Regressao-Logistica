@@ -1,1 +1,1 @@
-# Previs-o-de-Doen-as-Card-acas-usando-Regress-o-Log-stica
+# Previsao-de-Doencas-Cardiacas-usando-Regressao-Logistica
