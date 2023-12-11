@@ -15,5 +15,5 @@ Para executar o projeto em sua máquina local, siga estas etapas:
 Clone este repositório:
 ```python
 #
-git clone 
+git clone https://github.com/vinisvictorelli/Previsao-de-Doencas-Cardiacas-usando-Regressao-Logistica
 # 
