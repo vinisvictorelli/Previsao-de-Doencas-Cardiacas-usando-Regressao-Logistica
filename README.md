@@ -14,7 +14,6 @@ O Módulo de Previsão utiliza um modelo de Regressão Logística para prever a 
 Para executar o projeto em sua máquina local, siga estas etapas:
 Clone este repositório:
 ```python
-# Seu código Python aqui
-import streamlit as st
-import pandas as pd
-# ... resto do seu código ...
+#
+git clone 
+# 
