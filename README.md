@@ -15,5 +15,10 @@ Para executar o projeto em sua máquina local, siga estas etapas:
 Clone este repositório:
 ```python
 git clone https://github.com/vinisvictorelli/Previsao-de-Doencas-Cardiacas-usando-Regressao-Logistica
+```
+Execute o aplicativo Streamlit:
+```python
+streamlit run app.py
+```
 
 
